@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "smartcheck",
+            "database": "${workspaceFolder:case_study2}/smartinventory.db"
+        }
+    ]
+}
